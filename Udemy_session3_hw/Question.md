@@ -1,13 +1,14 @@
 You are a Data scientist working for a consulting firm. One of your colleagues from the auditing dept has asked you to help them access the financial statement of organisation X.
 
 You have been supplied with 2 lists of data: monthly revenue and monthly expense for the financial year in question. Your task is to calclate the following financial metrices:
-  Profit for each month
-  Profit after tax for each month (the tax rate is 30%)
-  profit margin for each month- equals to profit after tax divide by revenue
-  Good months- where the profit after the tax was greater than the mean for the year
-  Bad months- where the profit after the tax was lesser than the mean for the year
-  The best month- where the profit after the tax was max for the year
-  The worst month- where the profit after the tax was min for the year
+
+Profit for each month
+Profit after tax for each month (the tax rate is 30%)
+profit margin for each month- equals to profit after tax divide by revenue
+Good months- where the profit after the tax was greater than the mean for the year
+Bad months- where the profit after the tax was lesser than the mean for the year
+The best month- where the profit after the tax was max for the year
+The worst month- where the profit after the tax was min for the year
 
 All reslts need to be presented as lists
 
